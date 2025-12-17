@@ -1,5 +1,5 @@
 
-#🌾 Rice Leaf Disease Detection
+#Rice Leaf Disease Detection
 
 
 This project focuses on detecting diseases in rice leaves using machine learning techniques. The objective is to analyze leaf images and classify them as healthy or diseased by applying image preprocessing, feature extraction, and classification methods.
